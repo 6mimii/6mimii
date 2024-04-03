@@ -12,15 +12,6 @@
 
 Email: mdoudi-b@student.42malaga.com
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p>
-<a href="https://github.com/6mimii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=6mimii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=6mimii&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
@@ -30,6 +21,6 @@ Email: mdoudi-b@student.42malaga.com
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,github,ai,ps,vim,vscode,gmail,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,git,github,vim,vscode,gmail,discord&perline=14" />
   </a>
 </p>
