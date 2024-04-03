@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1> Hi, I’m Mohamed 👋 </h1>
 
-<!--
-**6mimii/6mimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ▪️ I'm student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
 
-Here are some ideas to get you started:
+## ▪️ Github stats 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tobiianselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobiianselmo&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobiianselmo&layout=compact&theme=github_dark)
+
+## ▪️ Contact me 📩
+
+Email: mdoudi-b@student.42malaga.com
