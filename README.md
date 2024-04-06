@@ -2,6 +2,14 @@
 
 ## ▪️ I'm student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
 
+## ▪️ My 42 cursus ✅
+| Project | Score |
+|--------|--------|
+| [**Libft**] (https://github.com/6mimii/Libft) | ![125%](https://progress-bar.dev/125)
+| [**ft_printf**] (https://github.com/6mimii/printf) | ![125%](https://progress-bar.dev/100)
+| [**get_next_line**] (https://github.com/6mimii/GetNextLine) | ![125%](https://progress-bar.dev/125)
+| **Born2beroot** | ![110%](https://progress-bar.dev/110)
+
 ## ▪️ Github stats 📊
 
 ![6mimii GitHub stats](https://github-readme-stats.vercel.app/api?username=6mimii&show_icons=true&theme=github_dark)
