@@ -1,8 +1,8 @@
 <h1> Hi, I’m Mohamed 👋 </h1>
 
-## ▪️ I'm student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
+## ▪️ I'm Student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
 
-## ▪️ My 42 cursus ✅
+## ▪️ My 42 Cursus ✅
 | Project | Score |
 |--------|--------|
 | [**Libft**] (https://github.com/6mimii/Libft) | ![125%](https://progress-bar.dev/125)
@@ -10,7 +10,7 @@
 | [**get_next_line**] (https://github.com/6mimii/GetNextLine) | ![125%](https://progress-bar.dev/125)
 | **Born2beroot** | ![100%](https://progress-bar.dev/110)
 
-## ▪️ Github stats 📊
+## ▪️ Github Stats 📊
 
 <p>
 <a href="https://github.com/6mimii">
@@ -18,7 +18,7 @@
 </a>
 </p>
 
-## ▪️ Contact me 📩
+## ▪️ Contact Me 📩
 
 Email: mdoudi-b@student.42malaga.com
 
