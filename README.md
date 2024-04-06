@@ -12,8 +12,6 @@
 
 ## ▪️ Github stats 📊
 
-![6mimii GitHub stats](https://github-readme-stats.vercel.app/api?username=6mimii&show_icons=true&theme=github_dark)
-
 <p>
 <a href="https://github.com/6mimii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=6mimii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
