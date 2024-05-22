@@ -9,6 +9,10 @@
 | [**ft_printf**] (https://github.com/6mimii/printf) | ![100%](https://progress-bar.dev/100)
 | [**get_next_line**] (https://github.com/6mimii/GetNextLine) | ![125%](https://progress-bar.dev/125)
 | **Born2beroot** | ![100%](https://progress-bar.dev/110)
+| **Push_Swap** | ![100%](https://progress-bar.dev/81)
+| **minitalk** | ![100%](https://progress-bar.dev/125)
+
+
 
 ## ▪️ Github Stats 📊
 
