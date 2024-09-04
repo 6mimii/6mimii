@@ -6,11 +6,11 @@
 | Project | Score |
 |--------|--------|
 | [**Libft**](https://github.com/6mimii/Libft) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
-| [**ft_printf**](https://github.com/6mimii/printf) | ![100%](https://progress-bar.dev/100)
+| [**ft_printf**](https://github.com/6mimii/printf) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | [**get_next_line**](https://github.com/6mimii/GetNextLine) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
-| [**Push_Swap**](https://github.com/6mimii/push_swap) | ![100%](https://progress-bar.dev/81)
-| [**minitalk**](https://github.com/6mimii/minitalk) | ![100%](https://progress-bar.dev/125)
-| **Born2beroot** | ![100%](https://progress-bar.dev/110)
+| [**Push_Swap**](https://github.com/6mimii/push_swap) | ![Static Badge](https://img.shields.io/badge/Score-81-brightgreen?style=flat)
+| [**minitalk**](https://github.com/6mimii/minitalk) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| **Born2beroot** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 
 
 
