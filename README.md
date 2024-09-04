@@ -1,13 +1,13 @@
-<h1> Hi, I’m Moro 👋 </h1>
+<h1> Hi, I’m Mohamed 👋 </h1>
 
-## ▪️ I'm Mozo de Almacen at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
+## ▪️ I'm student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
 
-## ▪️ My Mozo de Almacen Cursus ✅
-| Project | Anal |
+## ▪️ My 42 Cursus ✅
+| Project | |
 |--------|--------|
-| [**Burguer King**] (https://github.com/6mimii/Libft) | ![125%](https://progress-bar.dev/125)
-| [**Varear**] (https://github.com/6mimii/printf) | ![100%](https://progress-bar.dev/100)
-| [**Como me gusta alemania**] (https://github.com/6mimii/GetNextLine) | ![125%](https://progress-bar.dev/125)
+| [**Libft**] (https://github.com/6mimii/Libft) | ![125%](https://progress-bar.dev/125)
+| [**Printf**] (https://github.com/6mimii/printf) | ![100%](https://progress-bar.dev/100)
+| [**GetNextLine**] (https://github.com/6mimii/GetNextLine) | ![125%](https://progress-bar.dev/125)
 | [**Picaporte**] (https://github.com/6mimii/push_swap) | ![100%](https://progress-bar.dev/81)
 | [**zoy_put0**] (https://github.com/6mimii/minitalk) | ![100%](https://progress-bar.dev/125)
 | **He copiado todos los proyectos de 42 y por eso no aprueba el examen** | ![100%](https://progress-bar.dev/110)
