@@ -22,6 +22,8 @@
 </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6mimii&layout=compact&theme=github_dark)
+
 ## ▪️ Contact Me 📩
 
 Email: mdoudi-b@student.42malaga.com
