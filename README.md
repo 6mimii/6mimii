@@ -5,7 +5,7 @@
 ## ▪️ My 42 Cursus ✅
 | Project | Score |
 |--------|--------|
-| [**Libft**](https://github.com/6mimii/Libft) | ![125%](https://progress-bar.dev/125)
+| [**Libft**](https://github.com/6mimii/Libft) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
 | [**ft_printf**](https://github.com/6mimii/printf) | ![100%](https://progress-bar.dev/100)
 | [**get_next_line**](https://github.com/6mimii/GetNextLine) | ![125%](https://progress-bar.dev/125)
 | [**Push_Swap**](https://github.com/6mimii/push_swap) | ![100%](https://progress-bar.dev/81)
