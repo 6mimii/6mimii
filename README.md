@@ -1,4 +1,4 @@
-<h1> Hi, I’m Mohamed 👋 </h1>
+<h1> Hi, I’m Mimi 👋 </h1>
 
 ## ▪️ I'm Student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
 
