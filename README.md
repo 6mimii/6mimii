@@ -4,16 +4,17 @@
 
 ## ▪️ My 42 Cursus ✅
 | Project | Score |
-|--------|--------|
-| [**Libft**](https://github.com/6mimii/Libft) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
-| [**ft_printf**](https://github.com/6mimii/printf) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
-| [**get_next_line**](https://github.com/6mimii/GetNextLine) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
+|--------|--------|  
+
+| [**EXAM_RANK_03**](https://github.com/6mimii/) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| [**EXAM_RANK_02**](https://github.com/6mimii/) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) 
+| [**so_long**](https://github.com/6mimii/so_long) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| [**minitalk**](https://github.com/6mimii/minitalk) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | [**Push_Swap**](https://github.com/6mimii/push_swap) | ![Static Badge](https://img.shields.io/badge/Score-81-brightgreen?style=flat)
 | **Born2beroot** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
-| [**minitalk**](https://github.com/6mimii/minitalk) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
-| [**so_long**](https://github.com/6mimii/so_long) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)  
-| [**EXAM_RANK_02**](https://github.com/6mimii/) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) 
-| [**EXAM_RANK_03**](https://github.com/6mimii/) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) 
+| [**get_next_line**](https://github.com/6mimii/GetNextLine) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
+| [**ft_printf**](https://github.com/6mimii/printf) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| [**Libft**](https://github.com/6mimii/Libft) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
 
 
 ## ▪️ Github Stats 📊
